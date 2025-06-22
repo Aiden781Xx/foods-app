@@ -120,17 +120,4 @@ Feel free to fork and submit pull requests. For major changes, open an issue fir
 **Shivam Bhardwaj**
 GitHub: [@Aiden781Xx](https://github.com/Aiden781Xx)
 
-```
-
----
-
-### ✅ Next Suggestions
-
-Would you like me to:
-
-- Auto-generate this README in your repo?
-- Add a `LICENSE` file?
-- Help write a frontend README (if you're connecting React/Vite)?
-
-Just say **"Next: deploy"**, **"Next: frontend"**, or anything else!
-```
+ 
