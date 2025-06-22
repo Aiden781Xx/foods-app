@@ -2,8 +2,6 @@
 
 A RESTful API for a full-featured Food Delivery Application built with **Node.js**, **Express**, and **MongoDB**. This backend supports user registration, login (with JWT), restaurant management, food categories, and order processing.
 
-> 🚀 Deployed on: _[You can add link here if deployed]_
-
 ---
 
 ## 🔧 Tech Stack
